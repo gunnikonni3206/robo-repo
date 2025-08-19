@@ -8,4 +8,4 @@
 | Hönd           | 3    |
 | GPS            | 5    |
 | Sjónskynjari   | 11   |
-| Útvarp         | 21   |
+| Radio/Wifi         | 21   |
