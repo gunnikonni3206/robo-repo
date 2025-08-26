@@ -9,3 +9,4 @@
 | GPS            | 5    |
 | Sjónskynjari   | 11   |
 | Radio/Wifi         | 21   |
+| Gyro         | 15   |
