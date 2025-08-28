@@ -1,27 +1,23 @@
-# Vex tæki – Tengingar
+# VEX tæki – Tengingar
 
-| Tæki           | Port |
-|----------------|------|
-| Vinstri hjól   | 1    |
-| Hægri hjól     | 7    |
-| Armur          | 8    |
-| Hönd           | 3    |
-| GPS            | 5    |
-| Sjónskynjari   | 11   |
-| Radio/Wifi     | 21   |
-| Gyro           | 15   |
+| Tæki          | Port |
+|---------------|------|
+| Vinstri hjól  | 1    |
+| Hægri hjól    | 7    |
+| Armur         | 8    |
+| Hönd          | 3    |
+| GPS           | 5    |
+| Sjónskynjari  | 11   |
+| Radio/Wi-Fi   | 21   |
+| Gyro          | 15   |
+
+---
 
 ### Myndbönd
 
-- verkefni 1
+#### Verkefni 1
+- **Hluti 1:** [Fram og til baka](https://youtube.com/shorts/O_ZEImKa--s?si=UmXG1alzCJKqVmWf)  
+- **Hluti 2:** [Mynstur beygju](https://youtu.be/ra2M4qTgpgI?si=Adtg2VS0mG3LrYpn)  
 
-  hluti 1
-- [Fram og til baka](https://youtube.com/shorts/O_ZEImKa--s?si=UmXG1alzCJKqVmWf)
-
-  hluti 2
-- [Mynstur beygju](https://youtu.be/ra2M4qTgpgI?si=Adtg2VS0mG3LrYpn)
-
-- verkefni 2
- 
-  hluti 1
-- [fjarstýringu](https://youtube.com/shorts/C74RVPIu3U0?si=MVkDqU9fu-RDNu-c)
+#### Verkefni 2
+- **Hluti 1:** [Fjarstýring](https://youtube.com/shorts/C74RVPIu3U0?si=MVkDqU9fu-RDNu-c)  
