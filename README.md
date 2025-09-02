@@ -21,6 +21,6 @@
 
 #### Verkefni 2
 - **Hluti 1:** [Fjarstýring](https://youtube.com/shorts/C74RVPIu3U0?si=MVkDqU9fu-RDNu-c)
-- **Hluti 2:** [STOP]([https://youtube.com/shorts/C74RVPIu3U0?si=MVkDqU9fu-RDNu-c](https://www.youtube.com/shorts/wRAlh0qSgSU)
-- **Hluti 3:** [radius +5 cm]([https://youtube.com/shorts/C74RVPIu3U0?si=MVkDqU9fu-RDNu-c](https://www.youtube.com/watch?v=KNwzVBTjv-Q)
+- **Hluti 2:** [STOP](https://www.youtube.com/shorts/wRAlh0qSgSU)
+- **Hluti 3:** [radius +5 cm](https://www.youtube.com/watch?v=KNwzVBTjv-Q)
 
