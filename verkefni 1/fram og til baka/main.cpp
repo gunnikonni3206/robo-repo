@@ -24,9 +24,7 @@ int main() {
   vexcodeInit();
   while (condition) 
   {
-    Drivetrain.driveFor(reverse, 100, mm);
-    velocity 1000000
-    Drivetrain.driveFor(reverse, 50, mm);
+    Drivetrain.driveFor(reverse, 150, mm);
     wait(1,seconds);
     Drivetrain.driveFor(forward, 150, mm);
   }
