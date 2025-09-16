@@ -10,6 +10,7 @@ int main() {
   int lastDir = 0;
 
   while (true) {
+    
     int d = Distance2.objectDistance(mm);
 
     if (!Distance2.isObjectDetected() || d >= 1000) {
