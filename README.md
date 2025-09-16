@@ -25,3 +25,6 @@
 - **Hluti 2:** [STOP](https://www.youtube.com/shorts/wRAlh0qSgSU)
 - **Hluti 3:** [radius +5 cm](https://www.youtube.com/watch?v=KNwzVBTjv-Q)
 
+#### Verkefni 3
+- **Hluti 1:** [Video](https://youtube.com/shorts/fDPcqkLtboE?si=-4YRlwlaHDiazGRe)  
+- **Hluti 2:** [Video](https://youtu.be/YKrZClAZxAE?si=_drlIxpZmCIL3-PL)  
