@@ -13,6 +13,7 @@ motor RightDriveSmart = motor(PORT7, ratio18_1, true);
 drivetrain Drivetrain = drivetrain(LeftDriveSmart, RightDriveSmart, 319.19, 295, 40, mm, 1);
 distance Distance2 = distance(PORT9);
 
+
 // VEXcode generated functions
 
 

@@ -22,10 +22,13 @@ using namespace vex;
 int main() {
   // Initializing Robot Configuration. DO NOT REMOVE!
   vexcodeInit();
-  while (condition) 
+  i=0;
+  tala=0;
+  while (i>5) 
   {
-    Drivetrain.driveFor(reverse, 150, mm);
+    Drivetrain.driveFor(forward, tala+=500, mm);
     wait(1,seconds);
-    Drivetrain.driveFor(forward, 150, mm);
+    Drivetrain.driveFor(forward, tala+=500, mm);
+    i+=1;
   }
 }
