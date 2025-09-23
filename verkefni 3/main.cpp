@@ -1,39 +1,57 @@
 #include "vex.h"
-#include <cstdlib>
 
 using namespace vex;
+
+const int CENTER_FOV = 158;
+const int OFFSET_X = 15;
 
 int main() {
   vexcodeInit();
 
-  int lastDist = 9999;
-  int lastDir = 0;
+  while (digitalInputA.value() == 1) {
+    Brain.Screen.clearLine(1);
+    Brain.Screen.clearLine(2);
 
-  while (true) {
-    int d = Distance2.objectDistance(mm);
+   
+    Vision13.takeSnapshot(Vision13__RED1BOX);
 
-    if (!Distance2.isObjectDetected() || d >= 1000) {
-      Drivetrain.drive(forward);
-    } else {
-      int deg = (rand() % 91) + 90;
-      int dir = (lastDir == 0) ? ((rand() % 2) ? 1 : -1) : lastDir;
-
-      if (dir > 0) Drivetrain.turnFor(left, deg, degrees);
-      else Drivetrain.turnFor(right, deg, degrees);
-
-      int newDist = Distance2.objectDistance(mm);
-
-      if (newDist <= lastDist) {
-        if (dir > 0) Drivetrain.turnFor(right, deg, degrees);
-        else Drivetrain.turnFor(left, deg, degrees);
-        lastDir = -dir;
-      } else {
-        lastDir = dir;
+    
+    if (Vision13.largestObject.exists) {
+      int width = Vision13.largestObject.width;
+      int centerX = Vision13.largestObject.centerX;
+      Brain.Screen.printAt(10, 40, "Width: %d", width);
+      if(width > 120 && width < 1000){
+        Drivetrain.drive(reverse,5 ,velocityUnits::pct);
+        Brain.Screen.printAt(10, 60, "afurabak");
       }
-
-      lastDist = newDist;
+      else if (centerX < CENTER_FOV - OFFSET_X) {
+        Drivetrain.turn(left, 1, velocityUnits::pct);
+        Brain.Screen.printAt(10, 60, "vinstri");
+        
+      }
+      else if (centerX > CENTER_FOV + OFFSET_X) {   
+        Drivetrain.turn(right, 1, velocityUnits::pct);
+        Brain.Screen.printAt(10, 60, "Hægri");
+        
+      }
+       else if(width < 60) {
+        Drivetrain.drive(forward, 20, velocityUnits::pct);
+        Brain.Screen.printAt(10, 60, "Áfram");
+      }
+      else if(width < 95) {
+        Drivetrain.drive(forward, 10, velocityUnits::pct);
+        Brain.Screen.printAt(10, 60, "Áfram");
+      }
+      else {
+        Drivetrain.stop();
+        Brain.Screen.printAt(10, 60, "FANN DAD");
+      }
+    } else {
+      Drivetrain.stop();
+      Brain.Screen.printAt(10, 40, "See ekkert");
     }
 
-    wait(0.2, seconds);
+    wait(20, msec);
   }
+  Brain.programStop();
 }
