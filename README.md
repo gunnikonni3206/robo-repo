@@ -26,9 +26,9 @@
 - **Hluti 3:** [radius +5 cm](https://www.youtube.com/watch?v=KNwzVBTjv-Q)
 
 #### Verkefni 3
-- **Hluti 1:** [Video](https://youtube.com/shorts/fDPcqkLtboE?si=-4YRlwlaHDiazGRe)  
-- **Hluti 2:** [Video](https://youtu.be/YKrZClAZxAE?si=_drlIxpZmCIL3-PL)
-- **Hluti 3:** [Video](https://www.youtube.com/watch?v=ZsRIMMhsPGU)
+- **Hluti 1:** [VKeyra án þess að rekast](https://youtube.com/shorts/fDPcqkLtboE?si=-4YRlwlaHDiazGRe)  
+- **Hluti 2:** [litir](https://youtu.be/YKrZClAZxAE?si=_drlIxpZmCIL3-PL)
+- **Hluti 3:** [Kubbur](https://www.youtube.com/watch?v=ZsRIMMhsPGU)
 
 #### Verkefni 4
-- **Hluti 1:** [Video](https://www.youtube.com/shorts/2OXypMzWbQ0)  
+- **Hluti 1:** [Línu](https://www.youtube.com/shorts/2OXypMzWbQ0)  
