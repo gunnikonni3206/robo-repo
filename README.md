@@ -6,7 +6,7 @@
 | Hægri hjól    | 7    |
 | Armur         | 8    |
 | Hönd          | 3    |
-| GPS           | 5    |
+| GPS           | 4    |
 | Sjónskynjari  | 11   |
 | Radio/Wi-Fi   | 21   |
 | Gyro          | 10   |
