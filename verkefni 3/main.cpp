@@ -24,7 +24,7 @@ int main() {
       int newDist = Distance2.objectDistance(mm);
 
       if (newDist <= lastDist) {
-        if (dir > 0) Drivetrain.turnFor(right, deg, degrees);
+          if (dir > 0) Drivetrain.turnFor(right, deg, degrees);
         else Drivetrain.turnFor(left, deg, degrees);
         lastDir = -dir;
       } else {
