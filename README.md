@@ -32,3 +32,8 @@
 
 #### Verkefni 4
 - **Hluti 1:** [Línu](https://www.youtube.com/shorts/2OXypMzWbQ0)  
+
+#### Verkefni 4
+- **Hluti 2:** [miðja](https://youtube.com/shorts/aveU7HyIZ-g?si=ofeQGTt57UfF1oJj)  
+
+
