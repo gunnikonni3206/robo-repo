@@ -35,6 +35,6 @@
 
 #### Verkefni 5
 - **Hluti 2:** [miðja](https://youtube.com/shorts/aveU7HyIZ-g?si=ofeQGTt57UfF1oJj)
-- **Hluti 3:** [lita sort]([https://youtube.com/shorts/aveU7HyIZ-g?si=ofeQGTt57UfF1oJj](https://www.youtube.com/watch?v=ZsRIMMhsPGU)  
+- **Hluti 3:** [lita sort](https://youtube.com/shorts/aveU7HyIZ-g?si=ofeQGTt57UfF1oJj)
 
 
