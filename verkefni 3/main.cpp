@@ -1,7 +1,9 @@
 #include "vex.h"
-#include <cstdlib>
 
 using namespace vex;
+
+const int CENTER_FOV = 158;
+const int OFFSET_X = 15;
 
 int main() {
   vexcodeInit();
@@ -24,16 +26,18 @@ int main() {
       int newDist = Distance2.objectDistance(mm);
 
       if (newDist <= lastDist) {
-          if (dir > 0) Drivetrain.turnFor(right, deg, degrees);
+        if (dir > 0) Drivetrain.turnFor(right, deg, degrees);
         else Drivetrain.turnFor(left, deg, degrees);
         lastDir = -dir;
       } else {
         lastDir = dir;
       }
-
-      lastDist = newDist;
+    } else {
+      Drivetrain.stop();
+      Brain.Screen.printAt(10, 40, "See ekkert");
     }
 
-    wait(0.2, seconds);
+    wait(20, msec);
   }
+  Brain.programStop();
 }

@@ -6,7 +6,7 @@
 | Hægri hjól    | 7    |
 | Armur         | 8    |
 | Hönd          | 3    |
-| GPS           | 5    |
+| GPS           | 4    |
 | Sjónskynjari  | 11   |
 | Radio/Wi-Fi   | 21   |
 | Gyro          | 10   |
@@ -26,5 +26,14 @@
 - **Hluti 3:** [radius +5 cm](https://www.youtube.com/watch?v=KNwzVBTjv-Q)
 
 #### Verkefni 3
-- **Hluti 1:** [Video](https://youtube.com/shorts/fDPcqkLtboE?si=-4YRlwlaHDiazGRe)  
-- **Hluti 2:** [Video](https://youtu.be/YKrZClAZxAE?si=_drlIxpZmCIL3-PL)  
+- **Hluti 1:** [VKeyra án þess að rekast](https://youtube.com/shorts/fDPcqkLtboE?si=-4YRlwlaHDiazGRe)  
+- **Hluti 2:** [litir](https://youtu.be/YKrZClAZxAE?si=_drlIxpZmCIL3-PL)
+- **Hluti 3:** [Kubbur](https://www.youtube.com/watch?v=ZsRIMMhsPGU)
+
+#### Verkefni 4
+- **Hluti 1:** [Línu](https://www.youtube.com/shorts/2OXypMzWbQ0)  
+
+#### Verkefni 5
+- **Hluti 2:** [miðja](https://youtube.com/shorts/aveU7HyIZ-g?si=ofeQGTt57UfF1oJj)  
+
+
